@@ -1,0 +1,3 @@
+[submodule "JavaChatApplication"]
+	path = JavaChatApplication
+	url = https://github.com/AndriiSynytsia/JavaChatApplication.git
