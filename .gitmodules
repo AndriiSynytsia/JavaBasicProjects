@@ -1,3 +1,6 @@
 [submodule "JavaChatApplication"]
 	path = JavaChatApplication
 	url = https://github.com/AndriiSynytsia/JavaChatApplication.git
+[submodule "ChessGameApp"]
+	path = ChessGameApp
+	url = https://github.com/AndriiSynytsia/ChessGameApp.git
